@@ -61,5 +61,5 @@ Note -> We have not used any kind of Static Data means if you visit this page af
 
 # Deplyement Link
 
-https://anjali280.github.io/hotstart_clone_/
+https://github.com/saradhambal15/greatstar.git/
 "# greatstar" 
